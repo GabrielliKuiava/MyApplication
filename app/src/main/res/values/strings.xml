@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Cadastro de pessoas</string>
+
+    <string name="sem_registro">Não possui registro. Cadastre um novo.</string>
+
+    <string name="nome_label">Nome:</string>
+    <string name="idade_label">Idade:</string>
+
+    <string name="cadastrar">Cadastrar</string>
+    <string name="atualizar">Atualizar</string>
+    <string name="salvar">Salvar</string>
+
+    <string name="nome_hint">Nome</string>
+    <string name="sobrenome_hint">Sobrenome</string>
+    <string name="idade_hint">Idade</string>
+
+    <string name="cadastro_erro">Preencha todos os campos!</string>
+    <string name="cadastro_dao_erro">Ocorreu um erro ao cadastrar!</string>
+
+</resources>

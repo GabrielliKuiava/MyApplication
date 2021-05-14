@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Registration of people</string>
+
+    <string name="sem_registro">It has no record. Register a new one.</string>
+
+    <string name="nome_label">Name:</string>
+    <string name="idade_label">Age:</string>
+
+    <string name="cadastrar">Register</string>
+    <string name="atualizar">Update</string>
+    <string name="salvar">Save</string>
+
+    <string name="nome_hint">Name</string>
+    <string name="sobrenome_hint">surname</string>
+    <string name="idade_hint">Age</string>
+
+    <string name="cadastro_erro">Fill in all the fields!</string>
+    <string name="cadastro_dao_erro">OAn error occurred while registering!</string>
+
+</resources>
